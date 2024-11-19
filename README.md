@@ -4,4 +4,4 @@
 - MIGRATE DATABASES DB1 AND DB2 TO AZURE TO LEVERAGE THE CLOUD'S SCALABILITY AND RELIABILITY.
 - MINIMIZE ADMINISTRATIVE EFFORT AND COSTS BY UTILIZING AZURE'S MANAGED SERVICES AND AUTOMATION CAPABILITIES.
 
-![plot]([./directory_1/directory_2/.../directory_n/plot.png](https://github.com/ShireenTalaat/DEPLOYMENT-MIGRATION/blob/main/architecture.png])
+![plot]([https://github.com/ShireenTalaat/DEPLOYMENT-MIGRATION/blob/main/architecture.png])
