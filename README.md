@@ -58,7 +58,7 @@ HERE’S WHY:
 
 •Outbound Protection: Any potential outbound traffic is securely routed through the NAT Gateway, preventing exposure of the app’s internal IPs
 
-![app architecture.png](app architecture.png)
+![app architecture.png](apparchitecture.png)
 
 ### 3. DATABASE MIGRATION
 #### WHY MIGRATE THE DATABASE TO AZURE?
@@ -85,7 +85,7 @@ Best for modern cloud applications
 • BUILT-IN SECURITY AND COMPLIANCE
 • INTEGRATION WITH BLOB STORAGE FOR ARCHIVAL
 
-![on prem.png](on prem.png)
+![on prem.png](onprem.png)
 
 #### HOW IS THE DEPLOYMENT DONE?
 **DATABASE MIGRATION VIA SSMS (SQL SERVER MANAGEMENT STUDIO):**
