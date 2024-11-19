@@ -54,6 +54,5 @@ HERE’S WHY:
 •SSL Termination & WAF: The Application Gateway terminates the SSL connection, inspects traffic for security vulnerabilities using WAF, and then routes it to the app instances.
 •App Processing: The web app handles the request and sends the response back via the Application Gateway.
 •Outbound Protection: Any potential outbound traffic is securely routed through the NAT Gateway, preventing exposure of the app’s internal IPs
-
 ![app architecture.png](app architecture.png)
 
